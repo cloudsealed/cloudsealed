@@ -26,7 +26,7 @@ Our focus is on engineering low-latency engines, predictive diagnostic tools, an
 
 ### 📬 Connect & Insights
 
-* **Technical Research:** [research.cloudsealed.com](https://research.cloudsealed.com/) — *Deep dives into JIT, AIOps, and Cloud Efficiency.*
+* **Technical Research:** [research.cloudsealed.com](https://research.cloudsealed.com/)
 * **Official Website:** [cloudsealed.com](https://cloudsealed.com)
 * **Direct Contact:** [contact@cloudsealed.com](mailto:contact@cloudsealed.com)
 * **Focus:** Open for high-level technical architectural discussions and strategic partnerships.
